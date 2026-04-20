@@ -11,3 +11,27 @@ The goal is to analyse housing data from the US and build models to predict hous
 - Performs **exploratory data analysis (EDA)** to find relationships between features and property price. 
 - Builds and evaluates **multiple regression models.**
 - Uses **machine learning** techniques for prediction accuracy.
+
+## SKills Demonstrated
+Data analysis and Exploration
+
+
+Data cleaning and preparation
+
+
+Data Visualisation
+
+
+Machine Learning
+
+
+Model Evaluation
+
+
+## Tolls and Libraries used
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
