@@ -14,7 +14,10 @@ The goal is to analyse housing data from the US and build models to predict hous
 
 ## SKills Demonstrated
 Data analysis and Exploration
-
+- Looking at data types and dataset structures.
+- Using pandas to generate statistical summaries.
+- Identifying correlations between variables.
+- Using seaborn and matplotlib to visualise relationships.
 
 Data cleaning and preparation
 
