@@ -25,7 +25,9 @@ Data cleaning and preparation
 - Feature selection and transformation.
 
 Data Visualisation
-
+- Distribution comparisons using boxplots.
+- Regression plots to analyse correlations.
+- Interpreting visual data.
 
 Machine Learning
 
