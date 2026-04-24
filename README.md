@@ -12,7 +12,7 @@ The goal is to analyse housing data from the US and build models to predict hous
 - Builds and evaluates **multiple regression models.**
 - Uses **machine learning** techniques for prediction accuracy.
 
-## SKills Demonstrated
+## Skills Demonstrated
 Data analysis and Exploration
 - Looking at data types and dataset structures.
 - Using pandas to generate statistical summaries.
@@ -20,7 +20,9 @@ Data analysis and Exploration
 - Using seaborn and matplotlib to visualise relationships.
 
 Data cleaning and preparation
-
+- Handling missing values with mean imputation.
+- Removing columns that are not needed.
+- Feature selection and transformation.
 
 Data Visualisation
 
