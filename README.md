@@ -37,7 +37,9 @@ Machine Learning
 - Preventing overfitting of data.
 
 Model Evaluation
-
+- Train-tests split
+- Comparing model performance.
+- Improving models using regularisation.
 
 ## Tolls and Libraries used
 - Python
