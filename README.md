@@ -30,7 +30,11 @@ Data Visualisation
 - Interpreting visual data.
 
 Machine Learning
-
+- Linear regression.
+- Polynomial regression for non-linear relationships.
+- Using scikit-learn to create pipelines.
+- Using R-squared to evaluate models.
+- Preventing overfitting of data.
 
 Model Evaluation
 
