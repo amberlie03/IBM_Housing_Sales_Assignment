@@ -48,3 +48,20 @@ Model Evaluation
 - matplotlib
 - seaborn
 - scikit-learn
+
+### Models Include:
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression using the pipeline
+- Ridge regression
+
+## Key Results and Insights
+The basic model produced the R-squared value 0.49. The multiple feature model had a score of 0.66, and the pipeline with polynomial features produced 0.75. This demonstrates that the more features used and the more advanced a model is, the greater the prediction accuracy. 
+
+Square footage is the strongest predictor of house price. Property grade and location features can also significantly influence price.
+The more complex models capture patterns better than simple linear models.
+
+The project demonstrates a full workflow:
+
+  Data cleaning -> Exploration -> Modeling -> Evaluation
+
